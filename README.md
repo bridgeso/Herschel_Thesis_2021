@@ -13,3 +13,5 @@ Summer_Project_Random_Optical_data - matching of optical sources with randomly g
 Summer_Project_ML - Training and validation of machine learning models on Optical counterparts of the Herschel sources. Contains algorithm analysis.
 
 Summer_Project_Ensemble_Predictor_ML - Predictions on full COSMOS optical data using advanced machine learning models and custom metrics
+
+Full Description of Trained Machine Learning models available at: https://drive.google.com/drive/folders/1S6k1glKf1uKODmJEyMcSrIecQvBxUx6Q?usp=sharing 
